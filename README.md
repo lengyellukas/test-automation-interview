@@ -25,7 +25,7 @@ There is a test case in the repository that is currently failing. Your task is t
 Implement this test case using the existing framework and ensure it follows the **Page Object Model (POM)** principles.  
 
 ### 💻 Task 3: Run Tests from the Command Line  
-Find out how to run the tests from the command line using **Maven** and **TestNG**. Provide the exact command you used to execute the tests.  
+Find out how to run the tests from the command line using **Maven** and **TestNG**. Provide the exact command you used to execute the tests. Do not move tests to a different folder; instead, leverage the TestNG test suite option.
 
 💡 **Hint:**  
 - The project uses **Maven** for dependency management and execution.  
